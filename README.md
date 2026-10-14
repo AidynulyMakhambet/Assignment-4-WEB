@@ -1,7 +1,7 @@
 <h1>
     Aidynuly Makhambet <br>
     IT-2504<br>
-    Github Pages: 
+    Github Pages: https://aidynulymakhambet.github.io/Assignment-4-WEB/
 </h1>
 
 <h2>Part 1</h2>
@@ -42,7 +42,7 @@ Bootstrap styled validation warning. Instead of browser default one.
 <h2>Part 3</h2>
 <h3>Task 4</h3>
 
-![task4](task4_1.png)
+![task4](/Screenshots/task4_1.png)
 
-![task4](task4_2.png)
+![task4](/Screenshots/task4_2.png)
 Another bootstrap powered validation.
